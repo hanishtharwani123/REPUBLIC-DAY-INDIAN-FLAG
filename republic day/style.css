@@ -26,7 +26,7 @@ body {
     width: 400px;
     height: 95px;
     background-color: #fff;
-    background: url(Ashoka_Chakra.svg.png);
+    background-image: url(Ashoka_Chakra.svg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
